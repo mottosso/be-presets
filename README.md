@@ -2,5 +2,5 @@
 
 presets for `be`, the minimal asset management system powered by the command-line.
 
-- [`be`]()
+- [`be`](https://github.com/abstractfactory/be)
 - [submit a preset](../../wiki/submit)
