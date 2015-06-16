@@ -1,21 +1,25 @@
 {
-    "schema_version": "0.0.1",
+    "schema_version": "0.1.0",
     "presets": [
         {
             "name": "ad",
-            "repository": "https://github.com/mottosso/be-ad.git"
+            "repository": "mottosso/be-ad"
         },
         {
             "name": "film",
-            "repository": "https://github.com/mottosso/be-film.git"
+            "repository": "mottosso/be-film"
         },
         {
             "name": "game",
-            "repository": "https://github.com/mottosso/be-game.git"
+            "repository": "mottosso/be-game"
         },
         {
             "name": "helloworld",
-            "repository": "https://github.com/mottosso/be-helloworld.git"
+            "repository": "mottosso/be-helloworld"
+        },
+        {
+            "name": "tutorial-project",
+            "repository": "mottosso/be-tutorial-project"
         }
     ]
 }
