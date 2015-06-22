@@ -20,6 +20,10 @@
         {
             "name": "tutorial-project",
             "repository": "mottosso/be-tutorial-project"
-        }
+        },
+        {
+            "name": "panupat",
+            "repository": "mottosso/be-panupat"
+        },
     ]
 }
