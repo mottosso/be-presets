@@ -5,4 +5,3 @@ presets for `be`, the minimal directory and environment management system for cr
 - [`be`](https://github.com/mottosso/be)
 - [create a preset](https://github.com/mottosso/be-presets/wiki/create-a-preset)
 - [submit a preset](https://github.com/mottosso/be-presets/wiki/submit-a-preset)
-
