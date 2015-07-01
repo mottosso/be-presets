@@ -24,6 +24,10 @@
         {
             "name": "panupat",
             "repository": "mottosso/be-panupat"
+        },
+        {
+            "name": "shots-and-sequences",
+            "repository": "mottosso/2bb4651a05af85711cde"
         }
     ]
 }
