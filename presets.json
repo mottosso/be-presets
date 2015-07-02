@@ -28,6 +28,14 @@
         {
             "name": "shots-and-sequences",
             "repository": "mottosso/2bb4651a05af85711cde"
+        },
+        {
+            "name": "a-basic-preset",
+            "repository": "mottosso/1de35452c99f58df602e"
+        },
+        {
+            "name": "thats-the-gist-of-it",
+            "repository": "mottosso/9b25f547d5364f050494"
         }
     ]
 }
